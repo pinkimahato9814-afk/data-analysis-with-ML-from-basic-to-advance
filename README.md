@@ -7,8 +7,7 @@
 # Data Analysis Roadmap with Machine Learning
 
 
-![Data Analysis with maching learning](data analysis with machine learning_roadmap.png)
-
+![Data Analysis with machine learning](data%20analysis%20with%20machine%20learning_roadmap.png)
 
 
 
