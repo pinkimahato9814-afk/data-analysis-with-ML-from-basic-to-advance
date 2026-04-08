@@ -1,14 +1,16 @@
 
 
 # Data Analysis Process
-<img width="321" height="615" alt="image" src="https://github.com/user-attachments/assets/d6fde5b2-4d49-4d7d-b727-c7cae1ca3666" />
+![Data Analysis Flowchart](data_analysis_flowchart.png)
+
 
 # Data Analysis Roadmap with Machine Learning
-<img width="563" height="839" alt="image" src="https://github.com/user-attachments/assets/8edfb06a-ab61-4c66-89e6-4923b213980c" />
+
+
+![Data Analysis Flowchart](data analysis with maching learning_roadmap.png)
 
 
 
-![Data Analysis Flowchart](data_analysis_flowchart.png)
 
 
 core concept of data science for  begning
