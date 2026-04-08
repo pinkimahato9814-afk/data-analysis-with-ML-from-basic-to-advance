@@ -1,3 +1,10 @@
+
+
+# Data Analysis Process
+
+![Data Analysis Flowchart](data_analysis_flowchart.png)
+
+
 core concept of data science for  begning
 
 
